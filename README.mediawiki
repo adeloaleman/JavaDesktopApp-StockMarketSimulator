@@ -9,7 +9,7 @@
 <span style="background:#E6E6FA ">'''Trading Day Simulation:'''</span>
 * To be able to perform the simulation, the system first creates a number of companies with random values of «number of shares» and «share price». Then, we create a number of Investors with a random «budget».
 
-* '''The simulator follows the following rules:'''
+* '''The simulator follows these rules:'''
 :* If a company sells 10 shares, the share price doubles up.
 :* If any 10 shares are sold (from any company), and a company hasn't sold any, the price reduces in half.
 :* Investors can do as many transactions as they like, but must buy only one share per transaction. Investors must try to buy shares in as many possible companies to guarantee the safety of their investment.
